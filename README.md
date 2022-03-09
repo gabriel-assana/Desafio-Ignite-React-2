@@ -11,6 +11,21 @@ Aplicação desenvolvida no  desafio Ignite React da Rocketseat - Desafio 02 - C
 <h1 align="center">
   <img alt="logo" title="#logo" src="./src/assets/WatchMe.gif" />
 </h1>
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+✔️ React
+
+✔️ Typescript
+
+✔️ React-hooks
+
+✔️ HTML
+
+✔️ Sass
+
 <h2>Pré-requisitos</h2>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
