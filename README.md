@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./src/assets/watchMe.png" height="100px" alt="Vagas Tech"/>
+  <img src="./src/assets/watchMe.png" height="100px" alt="Watch Me"/>
 </h1>
 
 <h2 align="center" >Descrição do Projeto</h2>
