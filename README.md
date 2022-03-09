@@ -19,9 +19,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:rosana-moreira/WatchMe.git
+$ git clone https://github.com/gabriel-assana/WatchMe-ReactJS
 # Acesse a pasta do projeto no terminal/cmd
- cd WatchMe
+ cd WatchMe-ReactJS
 # Instale as dependências
 $ yarn
 # Execute a aplicação em modo de desenvolvimento
@@ -33,7 +33,7 @@ $ yarn server
 
 ```bash
 # Acesse a pasta do projeto no terminal/cmd
-$ cd WatchMe
+$ cd WatchMe-ReactJS
 # Abra um novo terminal e execute a aplicação em modo de desenvolvimento
 $ yarn dev
 # O servidor do front-end inciará na porta:8080 - acesse <http://localhost:8080>
