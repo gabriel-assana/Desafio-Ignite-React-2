@@ -50,7 +50,7 @@ $ yarn server
 
 ```bash
 # Acesse a pasta do projeto no terminal/cmd
-$ cd WatchMe-ReactJS
+$ cd WatchMe
 # Abra um novo terminal e execute a aplicação em modo de desenvolvimento
 $ yarn dev
 # O servidor do front-end inciará na porta:8080 - acesse <http://localhost:8080>
