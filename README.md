@@ -7,7 +7,7 @@ Aplicação desenvolvida no  desafio Ignite React da Rocketseat - Desafio 02 - C
 </p>
 
 <h1 align="center">
-  <img alt="logo" title="#logo" src="./assets/git.png" />
+  <img alt="logo" title="#logo" src="./assets/WatchMe.png" />
 </h1>
 <h2>Pré-requisitos</h2>
 
@@ -15,7 +15,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com) e [Node](https://nodejs.org/pt-br/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-# 🎲 Rodando o Back End
+# 👨‍💻 Rodando o Back End
 
 ```bash
 # Clone este repositório
@@ -29,7 +29,7 @@ $ yarn server
 # O servidor do back-end inciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
-# 🎲 Rodando o Front End
+# 👨‍💻 Rodando o Front End
 
 ```bash
 # Acesse a pasta do projeto no terminal/cmd
