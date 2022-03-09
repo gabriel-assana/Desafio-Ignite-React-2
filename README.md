@@ -12,7 +12,7 @@ Aplicação desenvolvida no  desafio Ignite React da Rocketseat - Desafio 02 - C
 <h2>Pré-requisitos</h2>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com) e [React](https://pt-br.reactjs.org/).
+[Git](https://git-scm.com) e [Node](https://nodejs.org/pt-br/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 # 🎲 Rodando o Back End
