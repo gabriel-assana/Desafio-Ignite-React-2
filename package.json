@@ -4,13 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "webpack serve",
+    "dev": "webpack serve --port 5000",
     "server": "json-server server.json --port 3333",
     "build": "cross-env NODE_ENV=production webpack",
     "test": "jest --watchAll"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.26.0",
     "json-server": "^0.16.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
