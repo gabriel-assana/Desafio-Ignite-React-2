@@ -1,6 +1,8 @@
-# WatchMe
+<h1 align="center">
+  <img src="./src/assets/watchMe.png" height="100px" alt="Vagas Tech"/>
+</h1>
 
-<h2>Descrição do Projeto</h2>
+<h2 align="center" >Descrição do Projeto</h2>
 <p align="center">
 Aplicação desenvolvida no  desafio Ignite React da Rocketseat - Desafio 02 - Componentizando a aplicação.
 
