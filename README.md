@@ -1,4 +1,4 @@
-# # WatchMe
+# WatchMe
 
 <h2>Descrição do Projeto</h2>
 <p align="center">
@@ -7,7 +7,7 @@ Aplicação desenvolvida no  desafio Ignite React da Rocketseat - Desafio 02 - C
 </p>
 
 <h1 align="center">
-  <img alt="logo" title="#logo" src="./assets/WatchMe.png" />
+  <img alt="logo" title="#logo" src="./src/assets/WatchMe.gif" />
 </h1>
 <h2>Pré-requisitos</h2>
 
